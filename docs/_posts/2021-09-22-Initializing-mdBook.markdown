@@ -91,7 +91,7 @@ All other elements are unsupported and will be ignored at best or result in an e
 
 # Integrating and hosting
 
-Create a new branch 'gh-pages' and put only the result of running `mdbook build` into the root directory of the branch.
+Create a new branch `gh-pages` and put only the result of running `mdbook build` into the root directory of the branch.
 
 ---
 
