@@ -24,8 +24,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   A place for posting random somewhat nerdy things (my apologies) once in a while.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://univana42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username:  univana42
+
+social_links:
+    #twitter: jekyllrb
+    github:  univana42
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    linkedin: univana42
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
 # Build settings
 theme: minima
