@@ -5,6 +5,7 @@ date:   2021-09-21 21:59:57 -0400
 ---
 
 Comparing `GitBook` and `mdBook` for building static websites.
+---
 
 **GitBook** is a command line tool and Node.js library for building books using GitHub/Git and Markdown.
 
