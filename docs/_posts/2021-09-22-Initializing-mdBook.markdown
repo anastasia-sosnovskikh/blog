@@ -4,6 +4,8 @@ title:  "mdBook"
 date:   2021-09-22 21:59:57 -0400
 ---
 
+How to set up a website using `mdBook`.
+
 # Get Latest Version of Rust
 
 Make sure you have the latest version of Rust and Cargo installed. 
@@ -86,6 +88,10 @@ You can either use `-` or `*` to indicate a numbered chapter.
 
 
 All other elements are unsupported and will be ignored at best or result in an error.
+
+# Integrating and hosting
+
+Create a new branch 'gh-pages' and put only the result of running `mdbook build` into the root directory of the branch.
 
 ---
 
