@@ -5,7 +5,6 @@ date:   2021-09-22 21:59:57 -0400
 ---
 
 How to set up a website using `mdBook`.
-
 ---
 
 # Get Latest Version of Rust
