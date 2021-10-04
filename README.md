@@ -1,4 +1,4 @@
-The website is built with `jekyll` using Ruby.
+The website is built with `jekyll` using `Ruby`.
 
 ---
 
