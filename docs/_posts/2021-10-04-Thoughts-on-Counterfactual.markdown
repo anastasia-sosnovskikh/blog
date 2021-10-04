@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  "Thoughts-on-Counterfactual"
-date:   2021-19-04 21:59:57 -0400
+date:   2021-10-04 21:59:57 -0400
 ---
 
 # Thoughts on Counterfactual
 
 The consequences of an action should be evaluated relative to what would have happened if the action were not taken — the counterfactual.  
-
-
 
 
 For instance, if you rush to give first aid to someone injured on the street, then your ‘tangible’ impact is whatever help you deliver to the injured person.
