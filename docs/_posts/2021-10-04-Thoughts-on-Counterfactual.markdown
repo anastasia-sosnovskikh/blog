@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on Counterfactual"
-date:   2021-10-03 21:59:57 -0400
+date:   2021-10-04 21:59:57 -0400
 ---
 The consequences of an action should be evaluated relative to what would have happened if the action were not taken — the counterfactual.  
 
