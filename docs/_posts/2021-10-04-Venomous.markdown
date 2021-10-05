@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Why do deadly animals live in hot climate..?"
+date:   2021-10-04 21:59:57 -0400
+---
+
+As some might know, I lived in Australia for a bit, and I am fascinated by that place. Hence, many of my wonderings are related to the world down under.  
+
+Let's get the definitions straight: 
+
+* poisonous is something that is harmful when ingested 
+* venomous is something that may go after you to harm you (:
+
+So, I was wondering why the most deadliest spiders and snakes are in Australia? Does it have something to do with the climate there?  
+Is it even true that the most venomous animals live in hot places?
+
+Let's get some data here.. to be continued on [my github page](https://github.com/anastasia-sosnovskikh). 
